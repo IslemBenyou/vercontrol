@@ -1,5 +1,5 @@
 {
-  "latest": "0.1.0",
-  "downloadUrl": "https://your-server.com/NadLink-setup.exe",
+  "latest": "0.2.0",
+  "downloadUrl": "https://github.com/IslemBenyou/vercontrol/releases/download/0.2.0/nadlink.exe",
   "message": "Contact your admin for the update."
 }
